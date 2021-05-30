@@ -1,0 +1,22 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: #dbd9d9;
+  background-color:  #1f1e1e;
+}
+
+#chart {
+  background-color: #1f1e1e;
+  padding-bottom: 20px;
+}
+
+h5.length {
+  position: absolute;
+  left: 110px;
+}
+
+h5.number {
+  position: absolute;
+  top: 560px;
+  left: 1100px;
+}
